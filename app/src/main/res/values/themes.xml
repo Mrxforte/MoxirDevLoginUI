@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MoxirDevLoginUI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="font">@font/inter</item>
+        <item name="fontStyle">normal</item>
+        <item name="android:colorPrimary">#14304A</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+<!--    Style for poppin font -->
+<style name="poppins">
+    <item name="font">@font/poppins</item>
+    <item name="fontStyle">normal</item>
+    <item name="android:textStyle">bold</item>
+</style>
+    <style name="Theme.MoxirDevLoginUI" parent="Base.Theme.MoxirDevLoginUI" />
+</resources>

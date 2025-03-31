@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoxirDevLoginUI</string>
+    <string name="log_in">Log in</string>
+    <string name="hi_welcome">Hi! Welcome</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forgotten_your_password">Forgotten your passwrod?</string>
+    <string name="or_sign_in_with">Or sign in with</string>
+    <string name="img">img</string>
+    <string name="forgotten_your_passwrod">Forgotten your passwrod?</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="password">Password</string>
+</resources>
